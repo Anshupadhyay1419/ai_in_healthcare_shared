@@ -1,0 +1,8 @@
+observation_id,encounter_id,code,value,unit,effective_time
+O001,E001,heart_rate,78.0,beats/min,2026-01-10T09:10:00+05:30
+O001,E001,heart_rate,78.0,beats/min,2026-01-10T09:10:00+05:30
+O002,E001,temperature,37.0,Cel,2026-01-10T09:12:00+05:30
+O003,E002,heart_rate,,beats/min,2026-02-10T10:10:00+05:30
+O004,E003,temperature,98.6,[degF],2026-01-15T11:10:00+05:30
+O005,E004,heart_rate,84.0,beats/min,2026-01-20T09:10:00+05:30
+O006,E005,heart_rate,80.0,beats/min,2026-03-01T09:10:00+05:30

@@ -1,0 +1,24 @@
+{
+  "source": "Hand-created deterministic teaching fixture; not clinical data.",
+  "ECG_like": {
+    "sampling_rate_hz": 250,
+    "channel_labels": [
+      "Lead_II_like"
+    ],
+    "unit": "mV",
+    "duration_s": 10,
+    "known_issue": "brief planted artifact near 6.0 s"
+  },
+  "EEG_like": {
+    "sampling_rate_hz": 128,
+    "channel_labels": [
+      "Fp1",
+      "Fp2",
+      "C3",
+      "O1"
+    ],
+    "unit": "uV",
+    "duration_s": 8,
+    "known_issue": "shared blink-like artifact near 4.0 s; labels do not define a clinical montage"
+  }
+}

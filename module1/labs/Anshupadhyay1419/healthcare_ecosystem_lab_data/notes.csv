@@ -1,0 +1,4 @@
+note_id,patient_id,encounter_id,text
+N001,P001,E001,No history of diabetes. Patient reports reduced activity.
+N002,P001,E002,Follow-up visit. Further assessment planned.
+N003,P002,E003,Family history of diabetes; patient history not established.
